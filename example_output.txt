@@ -1,0 +1,1 @@
+acc1 500 acc2 30 acc3 5 acc4 10256 acc5 5690
